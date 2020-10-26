@@ -2,7 +2,7 @@
 
 # Code Challenge: 
 
-![](https://raw.githubusercontent.com/twhipple/Code_Challenge_Consecutive_Repetition/main/Images/wilhelm-gunkel-invYnIE2Mv8-unsplash.jpg)
+![](https://raw.githubusercontent.com/twhipple/coding_challenge_consecutive_repetition/main/Images/wilhelm-gunkel-invYnIE2Mv8-unsplash.jpg)
 
 *Counting the number of repeated letters, over and over. Source: Wilhelm Gunkel, Upsplash.com*
 
@@ -21,7 +21,7 @@ For empty string return:
 
 ('', 0)
 
-![](https://raw.githubusercontent.com/twhipple/Code_Challenge_Consecutive_Repetition/main/Images/nicole-ferzoco-nY2ksaM92co-unsplash.jpg)
+![](https://raw.githubusercontent.com/twhipple/coding_challenge_consecutive_repetition/main/Images/nicole-ferzoco-nY2ksaM92co-unsplash.jpg)
 
 *I felt like I was going around in consecutive circles with this kata! Source: Nicole Ferzoco, Upsplash.com*
 
@@ -45,7 +45,7 @@ This kata was written by: suic
 
 Thank you to Codewars for helping me practice my Python skills.
 
-![](https://raw.githubusercontent.com/twhipple/Code_Challenge_Consecutive_Repetition/main/Images/letters-2-Stephen%20Tainton.jpg)
+![](https://raw.githubusercontent.com/twhipple/coding_challenge_consecutive_repetition/main/Images/letters-2-Stephen%20Tainton.jpg)
 
 *This code challenge took a lot of time looking at strings of letters! Source: Stephen Tainton, Upsplash.com*
 
